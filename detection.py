@@ -12,9 +12,6 @@ def detect_relative_threshold_and_peak(
     # load audio
     signal, sr = librosa.load(audio_path, sr=None)
 
-    print("Loaded from:", os.path.abspath(audio_path))
-    print("Duration (s):", len(signal) / sr, "| Sample rate:", sr)
-
     # amplitude envelope
     envelope = np.abs(signal)
 
