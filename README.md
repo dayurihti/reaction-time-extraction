@@ -1,5 +1,5 @@
 **OVERVIEW**
-The reaction time extraction program was initially made to help process data from the “Picture Naming Task” experiment. 
+This reaction time extraction program was initially made to help process data from the “Picture Naming Task” experiment. 
 With this program, we are able to detect human speech onset from the mass audio files. 
 This program used amplitude-based measurement, detecting the 70% level of the highest amplitude. 
 The cut-off was operationalized by considering the characteristic of human voice: the amplitude is consistently increasing until the peak. 
