@@ -1,11 +1,10 @@
 **OVERVIEW**
-This reaction time extraction program was initially made to help process data from the “Picture Naming Task” experiment. 
-Using this program, we are able to detect human speech onset from the mass audio files. 
-This program used amplitude-based measurement, detecting the 70% level of the highest amplitude. 
-The cut-off was operationalized by considering the characteristic of human voice: the amplitude is consistently increasing until the peak. 
-This characteristic is unique compared with the other kind of artifact noises.
+
+This reaction time extraction program was initially made to help process data from the “Picture Naming Task” experiment. Using this program, we are able to detect human speech onset from the mass audio files. This program used amplitude-based measurement, detecting the 70% level of the highest amplitude. The cut-off was operationalized by considering the characteristic of human voice: the amplitude is consistently increasing until the peak. This characteristic is unique compared with the other kind of artifact noises.
+
 
 **HOW IT WORKS**
+
 In this repository, I attached several files and folders explained below:
 
 **1. "audio_all" folder**
