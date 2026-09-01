@@ -20,6 +20,7 @@ MAIN.py → Please run this file to generate RT detection results in Terminal, s
 
 The example of the RT extraction data. Feel free to check.
 
-**4. Code via Google Colab**
 
-The full code can be seen and run there as well: https://colab.research.google.com/drive/1U7gjFyqGxQa02Ug9pxqz_Zb9goit2o8f?usp=sharing 
+**This work is on Github and Google Colab!**
+Github: https://github.com/dayurihti/reaction-time-extraction
+Google Colab: https://colab.research.google.com/drive/1U7gjFyqGxQa02Ug9pxqz_Zb9goit2o8f?usp=sharing 
