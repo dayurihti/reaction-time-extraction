@@ -22,5 +22,7 @@ The example of the RT extraction data. Feel free to check.
 
 
 **This work is on Github and Google Colab!**
+
 Github: https://github.com/dayurihti/reaction-time-extraction
+
 Google Colab: https://colab.research.google.com/drive/1U7gjFyqGxQa02Ug9pxqz_Zb9goit2o8f?usp=sharing 
