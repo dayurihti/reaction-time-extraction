@@ -20,6 +20,6 @@ MAIN.py → Please run this file to generate RT detection results in Terminal, s
 
 The example of the RT extraction data. Feel free to check.
 
-**4. Code via Google Colab (ipynb file)**
+**4. Code via Google Colab**
 
-The full code can be seen and run in the Google Colab as well.
+The full code can be seen and run there as well: https://colab.research.google.com/drive/1U7gjFyqGxQa02Ug9pxqz_Zb9goit2o8f?usp=sharing 
